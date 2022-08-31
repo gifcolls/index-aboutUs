@@ -1,0 +1,69 @@
+
+         a {color: mediumvioletred;
+             font-family:sans-serif;
+            text-decoration: none;
+        }
+         a:hover{color: blueviolet;
+            font-family: fantasy;
+            text-decoration:underline;
+        }
+        
+    body 
+        {
+         background-color: #F1EFEE;
+          color:hotpink; 
+          font-family: Verdana; font-size: 28px;
+          text-align: center;
+          height: 100%;
+          background-image:url(images/light_pink_sky.jpg);height: 100%; 
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+         
+        }
+        
+        h1
+        {
+         font-size: 40px;
+        }
+        
+        h2
+        {
+         font-size: 30px   
+        }
+        
+        ul
+        {
+            
+        list-style-position: inside; 
+            
+        }
+        
+       
+          .topBanner
+        {
+            font-family: Verdana;
+            font-size: 32px;
+            border: hotpink 4px solid;
+            background-image: url(images/colored_waves.jpg); height: 300px;
+            background-size: cover;
+            background-position:top;
+             
+        }
+        
+             
+        .ulDiv
+        {
+         border: hotpink 4px solid;
+         margin: 20px;
+         padding:20px;
+        }
+        
+        .footer
+        {
+           margin: 20px;
+           image-orientation: center;
+        }
+        
+        
+  

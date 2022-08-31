@@ -1,0 +1,87 @@
+         a {color: mediumvioletred;
+            font-family: sans-serif;
+            text-decoration: none;
+        }
+         a:hover{color: blueviolet;
+            font-family: fantasy;
+            text-decoration:underline;
+        }
+        
+        
+        body
+        {
+          background-color:#F1EFEE;
+          color:#93357D; 
+          font-family: Verdana; font-size: 28px;
+          text-align: center; 
+          height: 100%;
+          background-image:url(images/light_pink_sky.jpg);height: 100%; 
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+         
+        }
+        
+        h1
+        {
+          font-size: 32px;  
+        }
+        
+        p
+        {
+         color: #60849E; 
+         font-size: 25px;   
+        }
+        
+        h2 
+        {
+          font-size: 28px;
+        }
+        
+               
+        .topBannerOpportunities
+        {
+            font-family: Verdana;
+            font-size: 32px;
+            border: violet 4px solid;
+            background-image: url(images/violet_flowers.jpg); height: 300px;
+            background-size: cover;
+            background-position: center center;
+            
+                                    
+        }
+        
+        .textDiv
+        {
+         border: violet 4px solid;
+         margin: 30px;
+         padding: 20px;
+         
+        }
+        
+        .textDiv2
+        {
+         margin: 30px;    
+        }
+        
+        .tableDiv
+        {
+         
+         font-size: 20px;
+         margin: 20px;
+         padding: 10px;  
+        }
+        table
+        {
+            width:115%;
+                        
+        }
+        
+        
+         .footer
+        {
+           margin: 20px;
+           image-orientation: center;
+        }
+ 
+   
